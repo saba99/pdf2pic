@@ -1,6 +1,5 @@
 # pdf-to-picture
 turn any pdf into a picture file \
-updated for distribution: Version 3.0
 
 ## How to use
 * download binary to working directory, make it excutable and run it:
@@ -16,7 +15,3 @@ wget https://github.com/wottreng/pdf-to-picture/raw/main/pdf_to_image.bin && chm
 ### Functional Note:
 the binary tool finds all pdf files in the current directory and converts them to png image files
 
-### dev notes:
-the source code is included in this repository: `pdfToPNG.py`
-
-written by: Mark Wottreng
